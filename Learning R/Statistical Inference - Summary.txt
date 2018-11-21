@@ -1,0 +1,44 @@
+--------------------------
+1: Introduction
+--------------------------
+statistical inference, the process of drawing conclusions "about a
+| population using noisy statistical data where uncertainty must be accounted for". In other words, statistical inference
+| lets scientists formulate conclusions from data and quantify the uncertainty arising from using incomplete data
+
+So statistical inference involves formulating conclusions using data AND quantifying the uncertainty associated with those
+| conclusions. The uncertainty could arise from incomplete or bad data.
+
+bad data is like:  Small sample size, A poorly designed study, Selection bias
+A randomly selected sample of population is not bad data!
+
+with statistical inference we use data to draw general conclusions about a population.
+
+--------------------------
+2: Probability1
+--------------------------
+probability is the study of quantifying the likelihood of particular events occurring
+
+probability = likelihood = odds = chance
+
+The probability of a particular outcome of an experiment is the ratio of the number of ways that outcome can occur to
+| all possible outcomes of the experiment. Since there are 6 possible outcomes to the experiment of rolling a die, and we
+| assume the die is fair, each outcome is equally likely.
+
+If A and B are two independent events then the probability of them both occurring is the product of the probabilities.
+| P(A&B) = P(A) * P(B)
+
+The probability of at least one of two events, A and B, occurring is the sum of their individual probabilities minus
+| the probability of their intersection. P(A U B) = P(A) + P(B) - P(A&B).
+
+A deck of cards is a set of 52 cards, 4 suits of 13 cards each. There are two red suits, diamonds and hearts, and two
+| black suits, spades and clubs. Each of the 13 cards in a suit has a value - an ace which is sometimes thought of as 1,
+| a number from 2 to 10, and 3 face cards, king, queen, and jack. We've created a deck in R for you. Type 'deck' to see
+| it now.
+
+Suppose you draw a face card and don't replace it in the deck. What is the probability that when you draw a second card
+| it also will be a face card? 11/51
+
+--------------------------
+2: Probability2
+--------------------------
+
