@@ -1,0 +1,32 @@
+--------------------------
+1: Principles of Analytic Graphs
+--------------------------
+basic principles of presenting data effectively
+Edward Tufte's great 2006 book, Beautiful Evidence
+Graphs give us a visual form of data, and the first principle of analytic graphs is to show some comparison.
+So the first principle was to show a comparison. The second principle is to show causality or
+| a mechanism of how your theory of the data works. This explanation or systematic structure
+| shows your causal framework for thinking about the question you're trying to answer.
+
+third principle: Multivariate data!
+What is multivariate data you might ask? In technical (scientific) literature this term means
+| more than 2 variables. Two-variable plots are what you saw in high school algebra.  Rememb
+
+The fourth principle of analytic graphing involves integrating evidence. This means not
+| limiting yourself to one form of expression. You can use words, numbers, images as well as
+| diagrams. Graphics should make use of many modes of data presentation. Remember, "Don't let
+| the tool drive the analysis!"
+
+The fifth principle of graphing involves describing and documenting the evidence with sources
+| and appropriate labels and scales. Credibility is important so the data graphics should tell
+| a complete story. Also, using R, you want to preserve any code you use to generate your data
+| and graphics so that the research can be replicated if necessary. This allows for easy
+| verification or finding bugs in your analysis.
+
+...
+
+  |=====================================================================                 |  81%
+| The sixth and final principle of analytic graphing is maybe the most important. Content is
+| king! If you don't have something interesting to report, your graphs won't save you.
+| Analytical presentations ultimately stand or fall depending on the quality, relevance, and
+| integrity of their content.
